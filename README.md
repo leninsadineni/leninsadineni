@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leninsadineni
-- 👀 I’m interested in ... Learnign new things
+- 👀 I’m interested in ... Learning new things
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ... lenin.sadineni@gmail.com
